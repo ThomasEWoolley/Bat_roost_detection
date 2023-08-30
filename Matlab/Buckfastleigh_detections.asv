@@ -1,0 +1,20 @@
+ccc
+
+TabledataMaster = readtable(['./Roost_data/buckfastleigh/260616_master.csv']);
+[m,~]=size(TabledataMaster);
+Species = 'RHFE';
+
+Species_indices=strfind(TabledataMaster.MANUALID, Species);
+Species_indices=cellfun(@max,Species_indices)>0;
+SpeciesTable=TabledataMaster(Species_indices,:);
+
+[a,b]=histcounts(categorical(SpeciesTable.DetectorNumber));
+a=a/max(a);
+
+TabledataDetectors = readtable(['./Roost_data/buckfastleigh/260616_detectors.csv']);
+for i=1:length(b)
+Logic_index=strcmp(TabledataDetectors.DetectorNumber,b(i));
+Z(i,:)=[TabledataDetectors.XCoordinate(Logic_index) TabledataDetectors.YCoordinate(Logic_index)];
+end
+
+visicircles(Z,a')
