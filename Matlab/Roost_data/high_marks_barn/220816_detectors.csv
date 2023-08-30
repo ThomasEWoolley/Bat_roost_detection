@@ -1,0 +1,47 @@
+﻿Site,Site Number,Detector number,Number of days,X coordinate,Y coordinate,Number of GHS passes,1 sec gap,Woodland,Woodland Edge,Hedgerow,Treeline,Water,Grassland,Arable Farmland,Ploughed Land,Orchard,Livestock,Signs of Livestock,Stree lights,Buildings,Human Activity,Hedgerow Height,Hedgerow with trees,Livestock type,Building Type,Human activity type,Additional information,Data Collected,
+High Marks Barn,1,V1,6,272220.6205,54510.56888,8,8,,,x,,,x,,,,x,,,,,Below,,Sheep,,Farming,"Hedgerow less than waist height. 3rd fence post in from gate. Sheep on deployment, empty on collection",,
+High Marks Barn,2,U2,5,272435.0318,54540.21879,20,20,,,x,,,x,,,,x,,,,x,Below,Y,Sheep,,Farming,"Hedgerow less than waist height. In space by post between small trees along hedgerow. Sheep on placement, empty on collection.",,
+High Marks Barn,3,S1,0,272260.514,54318.02952,0,,,,x,x,,x,,,,x,x,,,x,Below,,,,Traffic,"No data recorded. Field empty on deployment, sheep on collection. Road on other side of hedge - occasional traffic",,
+High Marks Barn,4,V2,7,272288.5212,54209.59177,27,28,,,x,,,x,,,,,x,,,,Below,,,,,Hedgerow less than waist height,,
+High Marks Barn,5,A2,3,272421.5967,54070.3154,9,9,,,x,,,x,,,,x,,,,,Below,,Sheep,,,Hedgerow less than waist height. 3rd post from gate alongside hedgerow.,,
+High Marks Barn,6,R1,7,272345.226,54136.38098,0,0,,,,,,x,,,,,x,,,x,Below,,,,Farming,Hedgerow less than waist height poking out of top of ploughshare. In open middle of field in old ploughshare.,,
+High Marks Barn,7,R2,6,272334.0246,53989.7054,17,17,,,x,,,x,,,,x,,,,,Below,,Sheep,,,Near hedgerow junction. Hedgerow waist height,,
+High Marks Barn,8,O2,3,271794.483,52729.36786,4,4,,,x,,,x,,,,,,,,,Head height,N,,,,,,
+High Marks Barn,9,J2,7,271793.5003,52861.09932,2,2,,,,,,,x,,,,,,,,,,,,,Large tree 100m to right of detector in middle of field,,
+High Marks Barn,10,X1,4,271769.2022,52577.04788,2,2,,,x,,,x,,,,,,,,,Above,Y,,,,,,
+High Marks Barn,11,F1,7,272408.0573,51399.90224,3,3,,,,,,x,,,,x,x,,,,,,,,,Put out 23/08. Untouched pasture land - never ploughed. Springs in field - marshy.,,
+High Marks Barn,12,N2,4,272453.4459,51310.91216,6,6,,,x,x,x,x,,,,x,x,,,,Head height,Y,,,,Put out 23/08. Untouched pasture land - never ploughed. Springs in field - marshy. Hedgerow junction.,,
+High Marks Barn,15,Z2,7,272499.0392,50977.55303,63,63,,,x,x,,x,,,,,x,,,x,Above,Y,,,Farming,Put out 23/08. Untouched pasture land - never ploughed. Springs in field - marshy. Bales and farm machinery around.,,
+High Marks Barn,16,I1,2,272534.3651,51113.8504,14,15,,,x,,x,x,,,,x,x,,,,Above,Y,,,,Put out 23/08. Microphone off. Untouched pasture land - never ploughed. Springs in field - marshy. Garden adjacent. Hedgerow junction.,,
+High Marks Barn,17,E1,2,275363.4647,50842.8769,3,3,,,x,,,x,,,,x,x,,,,Above,N,Cattle,,,,,
+High Marks Barn,18,M2,1,275265.1697,50927.91723,2,2,,,x,,,x,,,,x,x,,,,Above,N,Cattle,,,,,
+High Marks Barn,19,O1,0,275116.6492,51068.5684,0,,,,x,,,x,,,,x,x,,,,Above,N,Cattle,,,No data recorded.,,
+High Marks Barn,21,T1,0,275566.1058,51273.15634,0,,,,,,,,,,,,,,,,,,,,,No data recorded.,,Anna
+High Marks Barn,24,N1,0,275443.7469,52256.46707,0,,,,,,,,,,,,,,,,,,,,,No data recorded. Didn't go out.,,Anna
+High Marks Barn,26,M1,3,272701.6621,53057.11831,0,,,x,x,,,x,,,,x,x,,,x,Above,Y,Cattle,,Farming,Cable chewed. Hedgerow junction. Cattle in adjacent field. Gateway didn't look secure.,,"Caught on camera by owner of lower hazelwood (adjacent). He was concerned I didn't have permission of landowner and didn't think bats should be surveyed. Of the 4 boxes, this was the only one deployed on 22 Aug."
+High Marks Barn,27,J1,0,272836.5453,53164.8967,0,,,,x,,,x,,,,,,,x,x,,,,House,Residential,"No data recorded. Batteries out. Unable to get to location on Monday evening, unable to position any boxes on Tuesday, so rather than not deploying, detector was put out on lawn. House and garage nearby. Very occasional passing of vehicle in daylight hours. Next to beech hedge. Occasional human passing. Man mowed lawn once.",,
+High Marks Barn,28,B1,3,273156.4574,52917.74295,6,6,,,,x,,x,,,,x,,,,x,,,Sheep,,Farming,Cable chewed. Hedgerow junction. Sheep present on collection.,,"Access difficult - had to climb gate with barbed wire and plastic mesh so couldn't put feet on bars. Possible routes via footpath gated, barbed wire, signed as private."
+High Marks Barn,29,E2,3,273230.2905,52802.76956,22,23,,x,,x,,x,,,,x,,,,,,,Sheep,,,Hedgerow junction. Sheep present on collection. Access difficult.,,"Access difficult - had to climb gate with barbed wire and plastic mesh so couldn't put feet on bars. Possible routes via footpath gated, barbed wire, signed as private."
+High Marks Barn,30,C2,2,273882.3222,53275.0808,60,66,x,,x,x,,,x,,,,,,x,x,Above,,,Barn,Farming,"Woodland in area adjacent, sweet chestnut. Hedgerow 10ft mixed broadleaf. Road to farms nearby.",,
+High Marks Barn,32,B2,2,273948.8369,53619.08505,19,21,,x,x,,,x,x,,,x,x,,,,Head height,N,Cattle,,,"Woodland edge, grassland, livestock in adjacent area. Cows nearby.",,
+High Marks Barn,34,G2,1,273973.4677,53746.93776,9,9,,x,x,,,x,,,,x,x,,,,Head height,Y,Cattle,,,Cows nearby.,,
+High Marks Barn,35,D1,1,273798.9978,53816.41053,6,6,,,x,,,,x,,,x,,,x,,Head height,,Cattle,Old barn,,Cows in adjacent field. Fixed adjacent to old barn building.,,
+High Marks Barn,37,K2,1,274153.0527,54038.17862,3,3,x,x,x,,,,x,,,,,,,,Head height,,,,,In field of sweetcorn.,,
+High Marks Barn,38,L1,3,274109.4409,54311.33661,11,11,,,x,,,x,,,,,,,,,Head height,N,,,,Near hedgerow junction,,
+High Marks Barn,39,T2,7,273935.8504,54154.38129,34,34,,,x,,,,,,,x,x,,,,Below,,Cattle,,,"Cows, bull, calves",,
+High Marks Barn,40,P2,3,274451.6564,53421.53007,22,22,,,x,x,x,x,,,,x,,,,,Above,,"Sheep, cattle",,,"Hedgerow, grassland, cattle adjacent. Hedgerow tall mixed broadleaf, junction of 3 hedges. Sheep previously, cattle present.",,
+High Marks Barn,41,Z1,5,274538.3409,53260.55459,24,24,,,x,x,,x,,,x,,,,,x,Above,,,,Farming,"Treeline, grasssland adjacent. Track (green lane) with cow and sheep dung on. Hedgerow junction.",,
+High Marks Barn,42,P1,5,274878.573,53457.1204,73,99,,x,,x,x,x,,,,x,,,,,,,Sheep,,,"Fenceline with treeline circa 2m away. Mixed broadleaf trees (not Devon bank). Stock shelter belt. Treeline willowed beneath by livestock. Woodland edge, water, grazed grassland in adjacent area.",,
+High Marks Barn,52,A1,2,272924.4444,52303.15289,26,27,,x,,,x,x,,,,,,,,,,,,,,Moved nearer boathouse.,,Lizzie
+High Marks Barn,54,D2,1,272211.9185,53161.18634,18,19,,,,x,x,,,,,,,,,x,,,,,,Bad placement.,,Lizzie
+High Marks Barn,55,F2,1,272947.6339,53283.42448,5,8,,,,,x,x,,,,,,,,x,Head height,,,,Residential,"Near bridge, near garden to house. Met landowner, who is content.",,
+High Marks Barn,56,W1,0,272908.1811,54120.49614,0,,,x,,x,,x,,,,,,,,,,,,,,No data recorded. Bad placement.,,Lizzie
+High Marks Barn,66,I2,7,272585.953,53980.49426,1,1,,,,,,x,,,,x,,,,,Below,,Sheep,,,In open field attached to sheep scratching post. Hedgerow waist height,,
+High Marks Barn,67,K1,7,271645.4103,52709.38421,13,14,,,,,,,x,,,,,,,,,,,,,Middle of field. Large tree ~200m away.,,
+High Marks Barn,68,S2,6,272630.3877,51080.02723,18,19,,,x,x,x,x,,,,x,x,,,,Above,Y,,,,Put out 23/08. Untouched pasture land - never ploughed. Springs in field - marshy.,,
+High Marks Barn,69,H1,1,275113.2783,50653.52138,3,3,,,x,,,x,,,,x,x,,,,Above,N,Cattle,,,,,
+High Marks Barn,70,L2,0,275206.7722,50507.97927,0,,,,x,,,x,,,,x,x,,,,Above,N,Cattle,,,No data recorded.,,
+High Marks Barn,71,G1,0,273050.3875,52989.90598,0,,,x,,,x,x,,,,,,,,x,Head height,,,,Possible camper.,No data collected. Near bridge. Empty tent uninhabited nearby.,,
+High Marks Barn,72,C1,4,275935.1266,52270.59123,2,2,,,,,,,,,,,,,,,,,,,,,,Anna
+High Marks Barn,73,U1,7,275917.9286,51995.42402,156,160,,,,,,,,,,,,,,,,,,,,,,Anna
+High Marks Barn,74,W2,7,275849.1368,51640.88164,14,14,,,,,,,,,,,,,,,,,,,,,,Anna
