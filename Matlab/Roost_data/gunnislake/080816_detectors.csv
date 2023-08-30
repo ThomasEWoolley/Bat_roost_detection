@@ -1,0 +1,41 @@
+﻿Site,Site Number,Detector number,Number of days,X coordinate,Y coordinate,Number of GHS passes,GHS,1s pass,% increase,,Woodland,Woodland Edge,Hedgerow,Treeline,Water,Grassland,Arable Farmland,Ploughed Land,Orchard,Livestock,Signs of Livestock,Stree lights,Buildings,Human Activity,Hedgerow Height,Hedgerow with trees,Livestock type,Building Type,Human activity type,Additional information,Data Collected
+Gunnislake,1,R2,7,241578,72857,8,8,9,12,,x,x,,,x,x,,,,x,,,,,,,Cattle,,,Cattle within 100m.,Y
+Gunnislake,2,I1,1,242264,72358,0,3,4,25,,x,x,,,x,,,,,,,,,x,,,,,Walkers,Footpath 4m away. Very overgrown no clear 'view' over river for mic - found best gap possible.,Short
+Gunnislake,3,U1,4,241689,72413,6,3,4,25,,x,x,x,x,x,,,,,,,,x,x,Below,Y,,Houses,"Residential, walkers but v quiet","Close to drive for house further down, plus another on other side of hedge. No human activity seen but close to lane which is part of Apple Trail, but v. quiet",Short
+Gunnislake,4,V1,7,243352,74270,19,15,15,0,,,,x,,,x,,,,,x,,,,Above,Y,Cattle,,,"Cows had been in field some time ago. Dry cow pats present. Clear evening, lots of insects and swallows flying.",Y
+Gunnislake,5,R1,7,242896,73941,31,11,11,0,,,,x,,,x,,,,,x,,x,x,Above,Y,Cattle,Cottages ,Farming,"Grass baling. Cattle in an adjacent field. Row of cottages opposite field. Clear evening, lots of insects and swallows flying.",Y
+Gunnislake,8,K1,3,243183,72553,3,3,3,0,,,x,x,,,x,,,,,x,,,,Above,,"Sheep, horses",,,Gateway in hedgerow.,Short
+Gunnislake,10,M1,5,244345,72129,35,16,18,12,,,,x,,,x,,,,x,x,,,,Head height,,Cattle,,,Cows in adjacent field.,Short
+Gunnislake,11,V2,7,244038,72328,44,41,43,5,,,,x,,,x,,,,x,x,,,x,Above,,Cattle,,Traffic,Cows in adjacent field.,Y
+Gunnislake,12,S2,7,243988,72162,7,6,6,0,,,x,x,x,,x,,,,,x,,x,,Above,Y,,House,,,Y
+Gunnislake,13,T2,6,244779,72764,1,0,0,0,,,,x,x,,,,,,,,x,x,x,,,,"Church, school",Church goers,2 busy roads nearby. Treeline and hedge in church yard. Flowering plants forming a 'hedge' at head height,Short
+Gunnislake,14,L1,7,244571,72702,13,12,13,8,,,,x,,,x,,,,x,x,,x,x,Above,Y,Sheep,"Outbuildings, farmhouse","Residential, farming",,Y
+Gunnislake,16,K2,7,243921,73216,65,70,71,1,,,x,,,,x,,,,,,,,,Above,Y,,,,,Y
+Gunnislake,17,N1,7,243969,73388,0,,,,No bats recorded,,,,,,x,,,,,,,,,,,,,,,Y
+Gunnislake,18,T1,4,243838,73267,6,5,5,0,,,,x,,,x,,,,,,,,x,Below,Y,,,Cycle track over hedge,Grassland in next field,Short
+Gunnislake,20,X1,6,243959,72612,0,1,2,50,,,,,,,x,,,,,,,x,x,,,,"Barn/shed, warehouses, wooden gazebos",Park goers,"Small park area with picnic tables, surrounded by trees on 2 sides. Tarmac road on 2 sides, cars and vans parked nearby.",Short
+Gunnislake,21,W2,4,244105,72481,8,7,7,0,,,,x,x,,x,,,,,,,x,x,Above,,,Cottages,B&B owners/guests,Dry stone wall. Close to treeline. Donkeys in field nearby.,Short
+Gunnislake,23,H1,6,244975,72156,4,5,5,0,,,,,,,x,,,,x,,,,,,,Cattle,,,Next to fence at edge of field. Cattle in next field. ,Short
+Gunnislake,24,J2,1,245101,72271,0,,,,No bats recorded,,,,,,x,,,,x,,,,,,,Cattle,,,Cattle in next field.,Short
+Gunnislake,25,A2,4,245018,71619,77,30,32,6,,,,x,,,x,,,,,,,,,Above,,,,,,Short
+Gunnislake,26,P1,7,244930,71599,0,0,,,No bats recorded,,,x,x,,x,,,,,,,,,Above,,,,,Recently cut field.,Y
+Gunnislake,27,S1,6,244656,71395,0,,,,No bats recorded,,,x,,,,x,,,,,,,x,,Y,,,Farming,"Next to gateway, tree lined/hedgerow. 18"" green corn.",Short
+Gunnislake,29,M2,3,244890,71144,5,3,3,0,,,,x,,,,x,,,,,,,,,Y,,,,Occasional trees/telegraph poles. Corn recently harvested.,Short
+Gunnislake,30,C2,6,244616,71218,32,18,18,0,,,,x,,,,x,,,,,,,,,Y,,,,Occasional trees/telegraph poles. Corn recently harvested.,Short
+Gunnislake,31,G2,4,245180,71326,36,2,2,0,,,,x,,,x,,,,,,,,,Above,,,,,Grass cut for silage.,Short
+Gunnislake,32,U2,4,244313,71090,3,1,1,0,,,,x,,,,x,,,,,,,,,Y,,,,Occasional trees/telegraph poles. Corn recently harvested.,Short
+Gunnislake,35,A1,1,242027,70925,0,0,0,0,,,,,,,x,,,,x,,,,,,,,,,"Long grass. Mic placed at shoulder height, box on hedgerow.",Short
+Gunnislake,36,I2,3,242063,71219,13,2,2,0,,,,,,,x,,,,,,,,,,,,,,"Grass mowed short. Mic placed at shoulder height, box on hedgerow.",Short
+Gunnislake,37,E1,1,242053,70818,7,0,0,0,,,,,,,x,,,,,,,,x,,,,,Traffic,"Long grass. Mic placed at shoulder height, box on hedgerow. Near main road A390.",Short
+Gunnislake,38,W1,4,243481,71342,9,8,8,0,,,,,,,,,,,,,,x,x,,,,House,Residential,In garden - people around.,Short
+Gunnislake,40,Z2,7,243345,71389,6,1,1,0,,,,,,,,,,,,,x,x,x,,,,House,"Residential, traffic",In garden - people around.,Y
+Gunnislake,41,E2,1,242882,71709,5,4,4,0,,,,x,x,,,,,,,,,x,x,,,,House,"Residential, infrequent","In a garden - large, wild, fairly overgrown, between big buddleja and hedge on small lawn.",Short
+Gunnislake,43,N2,4,242915,72202,0,1,1,0,,,,x,x,,x,,,,x,x,,,,Head height,Y,Bullocks,,Farmers,"When collected, microphone cover was in grass close by - probably removed by bullocks. Handful of bullocks running in 6-7 fields with open gates between.",Short
+Gunnislake,44,O1,6,242868,72039,0,0,,,No bats recorded,,x,x,x,,x,,,,x,x,,x,x,Above,Y,Bullocks,"Dwelling, house, farm/outbuildings, day nursery",Day nursery children,Not put out til Tuesday morning. Close to wildlife/pet area used by children attending nursery. Bullocks in field and 6/7 field close by. Spotted when detector collected. Two telegraph poles close by with power lines going across field.,Short
+Gunnislake,45,D2,3,243153,72172,0,0,0,0,,x,,x,x,,x,,,x,,,,,x,Below,Y,,,Children nearby,"Not put out til Tuesday morning. Collected Friday evening and taken home, replaced Saturday evening. Grassland (and orchard) closely above wood) Occasional use of area further up slope used by children attending day nursery for wildlife awareness. ",Short
+Gunnislake,46,B1,6,242353,72063,3,0,0,0,,x,x,,x,,x,,,,,,x,x,x,,,,"Stone cottage, stone sheds, corrugated iron sheds","Residential, walkers, traffic but v quiet",Low wooden fence. One streetlight on lane near house. Detector in garden so sheds close by. On edge of wood.,Short
+Gunnislake,47,D1,4,242498,71911,1,0,0,0,,,,,,,,,,,,,,x,x,,,,House,Residential,In garden - people around.,Short
+Gunnislake,51,F2,3,242324,71863,7,1,1,0,,,,,,,x,,,,,,,,,,,,,,"Not put out til Tuesday morning. Collected before evening of the 15th. Moved location. In middle of field of long grasses, ungrazed this season.",Short
+Gunnislake,55,J1,1,243504,70765,0,1,2,50,,,x,,,x,x,,,,,,,,x,,,,,Walkers,Footpath. In a bush of himalayan balsalm,Short
+Gunnislake,61,P2,7,242669,70851,1,0,0,0,,,,,,,,,,,,,x,x,x,,,,House,"Residential, traffic",Closest to AONB centre. In garden.,Y
+Gunnislake,62,F1,7,242670,70795,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,
