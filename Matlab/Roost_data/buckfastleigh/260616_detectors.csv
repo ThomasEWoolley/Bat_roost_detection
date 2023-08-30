@@ -1,0 +1,27 @@
+﻿Site,Site Number,Detector number,Number of days,X coordinate,Y coordinate,Total GHS pass,Total pass 1 sec gap,Avg pass,ave pass per night 1 sec,Woodland,Woodland Edge,Hedgerow,Treeline,Water,Grassland,Arable Farmland,Ploughed Land,Orchard,Livestock,Signs of Livestock,Stree lights,Buildings,Human Activity,Hedgerow Height,Hedgerow with trees,Livestock type,Building Type,Human activity type,Additional information,Data Collected
+Buckfastleigh,4,S1,7,274530,66084,389,416,55.57142857,59.42857143,x,x,,,x,,,,,,,,,x,,,,Near A38 flyover,,,Y
+Buckfastleigh,12,S2,4,274297,65833,205,209,51.25,52.25,,,x,x,,x,,,,,,,,,Above,No,,,,,Y
+Buckfastleigh,2,B2,2,274282,66079,176,262,88,131,,x,x,x,,,,,,,,,,x,Above,Yes,,,Walkers,"With trees. Beside river known to be a GHS path. Millenium Green, used by locals everyday",Short
+Buckfastleigh,45,U2,7,275147,66970,104,108,14.85714286,15.42857143,,,x,,,,x,,,,,,x,x,Above,Yes,,,walkers hut,With trees. Walkers hut,Y
+Buckfastleigh,19,E1,7,275807,64240,83,86,11.85714286,12.28571429,,,x,,,x,x,,,,,,,,Above,Yes,,,,With trees. Cattle in field beside detector,Y
+Buckfastleigh,3,K1,5,274442,65975,70,76,14,15.2,,,x,x,,,,,,,,,,x,Above,No,,,traffic. ,Detectopr under flyover,Y
+Buckfastleigh,53,P2,7,273402,64943,55,55,7.857142857,7.857142857,,x,x,x,,x,,,,,,,,x,Below,No,,,Heavy Traffic,"Species rich grassland before mowing - buttercup, yellow rattle, red clover",Y
+Buckfastleigh,15,H2,6,276512,65848,44,44,7.333333333,7.333333333,x,x,x,,,,x,,,,,,,,Above,No,,,,No treeline,Short
+Buckfastleigh,23,K2,7,273478,63951,44,51,6.285714286,7.285714286,,,x,,,x,,,,,,,,,Above,No,,,,No Trees,Y
+Buckfastleigh,37,I1,4,273828,67569,42,47,10.5,11.75,X,X,X,X,X,X,,,,,,,,,Above,Yes,,,,Well developed hedgerow 3m+ and beside river Dart 20m wide. Treeline up either side old oak trees,Short
+Buckfastleigh,29,P1,4,273231,66059,39,39,9.75,9.75,,,,x,x,,x,x,,,x,,x,,Above,Yes,,,Animal field shelter,With trees. Cattle in adjacent field. Field shelters. Mircophone pushed back through the hedge durning the week. ,Short
+Buckfastleigh,21,N2,3,275728,66311,30,45,10,15,,,x,x,,x,,,,,,,,x,Above,No,,,A38 traffic 300m away,,Short
+Buckfastleigh,13,V1,6,273336,64533,30,30,5,5,,,x,,,x,,,,x,,,,,Above,No,,walkers hut,,Live stock next to field,Short
+Buckfastleigh,54,O2,4,274669,66548,18,18,4.5,4.5,,,X,X,X,X,,,,,,,,,Above,No,,,,Well developed hedgerow 3m+,Short
+Buckfastleigh,5,T2,6,274022,67976,18,25,3,4.166666667,,,,X,X,,,,,,,,X,,,,,House,,Trees under bridge that has a mian road on it. River Dart 15m wide,Short
+Buckfastleigh,28,B1,2,273568,66207,17,20,8.5,10,,x,x,x,x,x,,,,,,,x,,Above,Yes,,disused built area,, Disused area in built up area,Short
+Buckfastleigh,48,E2,7,276000,66716,15,16,2.142857143,2.285714286,,,x,,,x,x,,,,,,,,Above,No,,,,No treeline,Y
+Buckfastleigh,44,M2,2,274889,66854,14,14,7,7,x,x,,x,,x,,,,x,,,,,,,Cattle,,,Cattle in field upon return. Microphone on the ground,Short
+Buckfastleigh,47,I2,4,276007,66405,12,12,3,3,X,X,,,X,,,,,,,,X,X,,,,Walkers shed,Forestry,,Y
+Buckfastleigh,8,R2,7,273758,66759,11,11,1.571428571,1.571428571,,,x,,,x,,,,,,,,x,Head Height,No,,Traffic/Walkers,,,Y
+Buckfastleigh,31,C2,7,273647,65093,9,10,1.285714286,1.428571429,x,x,x,x,,x,x,,,,,,,,Above,Yes,,,,with trees. ,Y
+Buckfastleigh,27,L1,7,272331,65280,9,9,1.285714286,1.285714286,,,x,,,,x,,,,,,,,Below,No,,,,No Trees. Maize field,Y
+Buckfastleigh,22,V2,7,272560,65942,9,9,1.285714286,1.285714286,,x,x,x,,x,,,,,,,,,Above,Yes,,,,Ash/oak Mature,Y
+Buckfastleigh,42,A1,7,275627,68327,8,8,1.142857143,1.142857143,,,X,,,X,,,,,,,,,Above,No,,,,Hedge 1.8m high,Y
+Buckfastleigh,46,G2,2,275731,67335,7,7,3.5,3.5,,,X,X,X,X,,,,,,,,,Above,Yes,,,,In a Orchard. Hazel and ash,Short
+Buckfastleigh,6,C1,2,272857,65301,0,0,0,0,,x,,,,x,,,,x,,,,,Below,,Sheep/Cattle,,,,Short
